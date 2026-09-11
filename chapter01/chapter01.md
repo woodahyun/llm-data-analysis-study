@@ -520,7 +520,7 @@ LLM이 그럴듯한 분석 방향이나 코드를 제시하더라도, 그것이 
 ### 최종 파일 URL
 
 ```text
-https://github.com/woodahyun/llm-data-analysis-study/blob/main/chapter01/chapter01.md
+
 ```
 
 ---
