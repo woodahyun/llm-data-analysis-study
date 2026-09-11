@@ -510,19 +510,16 @@ LLM이 그럴듯한 분석 방향이나 코드를 제시하더라도, 그것이 
 - [O] 업무·분석적 의미를 작성했습니다.
 - [O] 한계와 추가 확인 사항을 작성했습니다.
 - [O] 핵심 실행 Evidence 이미지를 첨부했습니다.
-- [ ] 이미지가 Markdown에서 정상 표시됩니다.
+- [O] 이미지가 Markdown에서 정상 표시됩니다.
 - [O] 개인정보가 없습니다.
 - [O] API Key·Secret·Token이 없습니다.
-- [ ] 개인 GitHub 저장소에 업로드했습니다.
-- [ ] GitHub에서 Markdown과 이미지가 정상 표시됩니다.
-- [ ] 아래 최종 파일 URL이 정상적으로 열립니다.
+- [O] 개인 GitHub 저장소에 업로드했습니다.
+- [O] GitHub에서 Markdown과 이미지가 정상 표시됩니다.
+- [O] 아래 최종 파일 URL이 정상적으로 열립니다.
 
 ### 최종 파일 URL
 
-```text
-
-```
-
+https://github.com/woodahyun/llm-data-analysis-study/blob/main/chapter01/chapter01.md
 ---
 
 ## 10. 교수자 확인용 요약
