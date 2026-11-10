@@ -35,8 +35,12 @@ from src.preprocessing import (
 )
 
 
-RAW_DIR = Path("practice/chapter05/data/raw")
-PROCESSED_DIR = Path("data/processed")
+from pathlib import Path
+
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+
+RAW_DIR = PROJECT_ROOT / "data" / "raw"
+PROCESSED_DIR = PROJECT_ROOT / "data" / "processed"
 REPORT_DIR = Path("reports")
 REPORT_PATH = REPORT_DIR / "ch05_preprocessing_summary.md"
 

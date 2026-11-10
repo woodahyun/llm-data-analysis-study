@@ -1,0 +1,2 @@
+﻿train_start_date,train_end_date,train_rows,final_test_start_date,final_test_end_date,final_test_rows,same_calendar_date_overlap,strict_train_before_test
+2025-09-10,2026-06-15,244,2026-06-16,2026-09-09,56,0,PASS

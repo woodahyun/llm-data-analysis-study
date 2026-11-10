@@ -1,0 +1,4 @@
+﻿model,cv_mae_mean,cv_mae_std,cv_r2_mean,selection_role,selected_by_train_cv
+Baseline Mean,424062.69048237795,27904.32289756012,-0.02297003239872275,baseline,False
+Linear Regression,480398.1868012207,27924.89272752589,-0.3548517338003504,candidate,False
+Random Forest,471232.1635920985,33301.91180759597,-0.26085932581741844,candidate,True

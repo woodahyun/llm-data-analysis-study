@@ -1,0 +1,7 @@
+﻿check,value,expected,status
+forbidden_feature_overlap,0,0,PASS
+strict_train_before_test,True,True,PASS
+selected_model_exists_in_train_cv,Random Forest,candidate model,PASS
+final_test_contains_baseline,True,True,PASS
+final_test_contains_frozen_selected_model,True,True,PASS
+test_rows_for_r2,56,>=2,PASS
